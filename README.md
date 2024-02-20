@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThomasMasak
 - 👀 I’m interested in Cloud Engineering and DevOps.
-- 🌱 I’m currently learning AWS to gain cloud practitioner certification.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning languages for scripting such as bash and python.
+- 💞️ I’m looking to collaborate on any project that could help me showcase skill in DevOps project.
 - 📫 How to reach me 03thomasmasak@gmail.com
 
 <!---
