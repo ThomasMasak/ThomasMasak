@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThomasMasak
 - 👀 I’m interested in Cloud Engineering and DevOps.
-- 🌱 I’m currently learning how to properly set up CI/CD pipeline using Terraform, Ansible, Docker and GitHub Actions.
-- 💞️ I’m looking to collaborate on any project that could help me showcase skills in DevOps project.
+- 🌱 I’m currently working with AWS, GitHub Actions, Terraform, Ansible & Docker.
+- 💞️ I’m looking to collaborate on any project that could help me showcase skills in DevOps projects.
 - 📫 How to reach me 03thomasmasak@gmail.com
 
 <!---
